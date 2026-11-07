@@ -11,7 +11,19 @@
         "label": "Camellia　zeta",
         "url": "https://zeta-ai.io/ja/plots/3b626c29-f1a0-49c0-8f90-42c63a6ffab2/profile?share_id=2el8rtjwh"
       }
-    ]
+    ],
+  "nowacado": [
+  {
+    "label": "🖼 zeta",
+    "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
+  }
+],
+"school": [
+  {
+    "label": "曜日たちの生徒会室 zeta",
+    "url": "https://zeta-ai.io/ja/plots/37285deb-f8de-4e1a-98e6-fb81bd7eef16/profile?share_id=p8qonl04"
+  }
+]
   },
   "characters": {
     "C001": [
@@ -31,6 +43,84 @@
         "label": "登場プロット：Camellia",
         "url": "https://zeta-ai.io/ja/plots/3b626c29-f1a0-49c0-8f90-42c63a6ffab2/profile?share_id=2el8rtjwh"
       }
-    ]
+    ],
+    "NC-L001": [
+  {
+    "label": "登場プロット 🖼",
+    "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
+  }
+],
+"NC-L002": [
+  {
+    "label": "登場プロット 🖼",
+    "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
+  }
+],
+"NC-L003": [
+  {
+    "label": "登場プロット 🖼",
+    "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
+  }
+],
+"NC-L004": [
+  {
+    "label": "登場プロット 🖼",
+    "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
+  }
+],
+"NC-L005": [
+  {
+    "label": "登場プロット 🖼",
+    "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
+  }
+],
+"NC-L006": [
+  {
+    "label": "登場プロット 🖼",
+    "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
+  }
+],
+"NC-L007": [
+  {
+    "label": "登場プロット 🖼",
+    "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
+  }
+],
+"NC-L008": [
+  {
+    "label": "登場プロット 🖼",
+    "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
+  }
+],
+"C021": [
+  {
+    "label": "登場プロット　曜日たちの生徒会室",
+    "url": "https://zeta-ai.io/ja/plots/37285deb-f8de-4e1a-98e6-fb81bd7eef16/profile?share_id=p8qonl04"
+  }
+],
+"C022": [
+  {
+    "label": "登場プロット　曜日たちの生徒会室",
+    "url": "https://zeta-ai.io/ja/plots/37285deb-f8de-4e1a-98e6-fb81bd7eef16/profile?share_id=p8qonl04"
+  }
+],
+"C023": [
+  {
+    "label": "登場プロット　曜日たちの生徒会室",
+    "url": "https://zeta-ai.io/ja/plots/37285deb-f8de-4e1a-98e6-fb81bd7eef16/profile?share_id=p8qonl04"
+  }
+],
+"C024": [
+  {
+    "label": "登場プロット　曜日たちの生徒会室",
+    "url": "https://zeta-ai.io/ja/plots/37285deb-f8de-4e1a-98e6-fb81bd7eef16/profile?share_id=p8qonl04"
+  }
+],
+"C025": [
+  {
+    "label": "登場プロット　曜日たちの生徒会室",
+    "url": "https://zeta-ai.io/ja/plots/37285deb-f8de-4e1a-98e6-fb81bd7eef16/profile?share_id=p8qonl04"
+  }
+]
   }
 }
