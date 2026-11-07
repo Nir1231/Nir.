@@ -1,0 +1,12 @@
+{
+  "worlds": {
+    "hakobune": [
+      { "label": "方舟:zeta", "url": "https://zeta-ai.io/ja/plots/2b201c7b-ea1d-458c-b23a-a2946838ed0d/profile?share_id=51k3ysjqe" }
+    ]
+  },
+  "characters": {
+    "C001": [
+      { "label": "人物紹介", "url": "https://zeta-ai.io/ja/plots/2b201c7b-ea1d-458c-b23a-a2946838ed0d/profile?share_id=51k3ysjqe" }
+    ]
+  }
+}
