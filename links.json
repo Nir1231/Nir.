@@ -5,6 +5,12 @@
         "label": "神は誰も選ばない zeta",
         "url": "https://zeta-ai.io/ja/plots/2b201c7b-ea1d-458c-b23a-a2946838ed0d/profile?share_id=51k3ysjqe"
       }
+    ],
+    "hanakotoba": [
+      {
+        "label": "Camellia　zeta",
+        "url": "https://zeta-ai.io/ja/plots/3b626c29-f1a0-49c0-8f90-42c63a6ffab2/profile?share_id=2el8rtjwh"
+      }
     ]
   },
   "characters": {
@@ -18,6 +24,12 @@
       {
         "label": "登場プロット：神は誰も選ばない",
         "url": "https://zeta-ai.io/ja/plots/2b201c7b-ea1d-458c-b23a-a2946838ed0d/profile?share_id=51k3ysjqe"
+      }
+    ],
+      "C030": [
+      {
+        "label": "登場プロット：Camellia",
+        "url": "https://zeta-ai.io/ja/plots/3b626c29-f1a0-49c0-8f90-42c63a6ffab2/profile?share_id=2el8rtjwh"
       }
     ]
   }
