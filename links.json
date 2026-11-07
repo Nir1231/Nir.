@@ -23,6 +23,18 @@
     "label": "曜日たちの生徒会室 zeta",
     "url": "https://zeta-ai.io/ja/plots/37285deb-f8de-4e1a-98e6-fb81bd7eef16/profile?share_id=p8qonl04"
   }
+],
+"hero": [
+  {
+    "label": "英雄ごっこ zeta",
+    "url": "https://zeta-ai.io/ja/plots/6d719653-a8db-4cfc-9d6c-0b619c21dff8/profile?share_id=5hbpih6f"
+  }
+],
+"nisehero": [
+  {
+    "label": "英雄のいない英雄譚 zeta",
+    "url": "https://zeta-ai.io/ja/plots/329d4e0d-88c4-4edb-a91a-d0794201edfc/profile?share_id=etr89yl3"
+  }
 ]
   },
   "characters": {
@@ -44,37 +56,49 @@
         "url": "https://zeta-ai.io/ja/plots/3b626c29-f1a0-49c0-8f90-42c63a6ffab2/profile?share_id=2el8rtjwh"
       }
     ],
-    "C012": [
+    "NC-L001": [
   {
     "label": "登場プロット 🖼",
     "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
   }
 ],
-"C013": [
+"NC-L002": [
   {
     "label": "登場プロット 🖼",
     "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
   }
 ],
-"C014": [
+"NC-L003": [
   {
     "label": "登場プロット 🖼",
     "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
   }
 ],
-"C015": [
+"NC-L004": [
   {
     "label": "登場プロット 🖼",
     "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
   }
 ],
-"C016": [
+"NC-L005": [
   {
     "label": "登場プロット 🖼",
     "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
   }
 ],
-"C017": [
+"NC-L006": [
+  {
+    "label": "登場プロット 🖼",
+    "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
+  }
+],
+"NC-L007": [
+  {
+    "label": "登場プロット 🖼",
+    "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
+  }
+],
+"NC-L008": [
   {
     "label": "登場プロット 🖼",
     "url": "https://zeta-ai.io/ja/plots/f30a2143-48dc-4359-b0ef-e6f41bd57096/profile?share_id=it4x31zjf"
@@ -108,6 +132,42 @@
   {
     "label": "登場プロット　曜日たちの生徒会室",
     "url": "https://zeta-ai.io/ja/plots/37285deb-f8de-4e1a-98e6-fb81bd7eef16/profile?share_id=p8qonl04"
+  }
+],
+"C026": [
+  {
+    "label": "登場プロット　英雄ごっこ",
+    "url": "https://zeta-ai.io/ja/plots/6d719653-a8db-4cfc-9d6c-0b619c21dff8/profile?share_id=5hbpih6f"
+  }
+],
+"C027": [
+  {
+    "label": "登場プロット　英雄ごっこ",
+    "url": "https://zeta-ai.io/ja/plots/6d719653-a8db-4cfc-9d6c-0b619c21dff8/profile?share_id=5hbpih6f"
+  }
+],
+"C028": [
+  {
+    "label": "登場プロット　英雄ごっこ",
+    "url": "https://zeta-ai.io/ja/plots/6d719653-a8db-4cfc-9d6c-0b619c21dff8/profile?share_id=5hbpih6f"
+  }
+],
+"C029": [
+  {
+    "label": "登場プロット　英雄ごっこ",
+    "url": "https://zeta-ai.io/ja/plots/6d719653-a8db-4cfc-9d6c-0b619c21dff8/profile?share_id=5hbpih6f"
+  }
+],
+"C017": [
+  {
+    "label": "登場プロット　英雄のいない英雄譚",
+    "url": "https://zeta-ai.io/ja/plots/329d4e0d-88c4-4edb-a91a-d0794201edfc/profile?share_id=etr89yl3"
+  }
+],
+"C020": [
+  {
+    "label": "登場プロット　英雄のいない英雄譚",
+    "url": "https://zeta-ai.io/ja/plots/329d4e0d-88c4-4edb-a91a-d0794201edfc/profile?share_id=etr89yl3"
   }
 ]
   }
