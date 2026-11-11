@@ -35,7 +35,13 @@
     "label": "英雄のいない英雄譚 zeta",
     "url": "https://zeta-ai.io/ja/plots/329d4e0d-88c4-4edb-a91a-d0794201edfc/profile?share_id=etr89yl3"
   }
-]
+],
+    "yadorigi": [
+      {
+        "label": "白菊は枯れず、宿り木は離れず。 zeta",
+        "url": "https://zeta-ai.io/ja/plots/f9831166-d11e-4f9b-9009-6e74184cf5ec/profile?share_id=i3x3zrg4i"
+      }
+    ],
   },
   "characters": {
     "C001": [
@@ -157,6 +163,12 @@
     "label": "登場プロット　英雄のいない英雄譚",
     "url": "https://zeta-ai.io/ja/plots/329d4e0d-88c4-4edb-a91a-d0794201edfc/profile?share_id=etr89yl3"
   }
-]
+],
+"C031": [
+  {
+    "label": "登場プロット　白菊は枯れず、宿り木は離れず。",
+    "url": "https://zeta-ai.io/ja/plots/f9831166-d11e-4f9b-9009-6e74184cf5ec/profile?share_id=q1wys89c+"
+  }
+],
   }
 }
